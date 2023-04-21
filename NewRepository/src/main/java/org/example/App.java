@@ -39,7 +39,7 @@ public class App {
 
         float[] liczby = {3.0f, 5,5f, 10.1f, 15.7f};
         float suma = 0;
-        float averege;
+        float averege =0;
 
         for (Integer i = 0; i < liczby.length; i++) {
             suma += liczby[i];
@@ -51,6 +51,7 @@ public class App {
 
 
 //zadanie 4 Stwórz tablicę imion (z powtórzeniami) i następnie policz, ile razy występuje w niej imię "Jan".
+
 
     }
 }
